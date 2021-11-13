@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NorbertH14
+- 👀 I’m interested in AI, Python, Rust, Javascript, Art
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on interesting AI projects
